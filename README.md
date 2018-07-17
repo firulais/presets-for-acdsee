@@ -17,7 +17,6 @@ double-click on the fxCinematic.reg and fxCinematicPortrait.reg file and follow 
 This is the initial release with just two Presets.
 
 # Credits
-* Muaz Khan - https://github.com/muaz-khan
 
 # License
 All Presets are released under [MIT licence].
