@@ -7,17 +7,26 @@ Presets for ACDSee Ultimate 2018 for Windows
 ACDSee Ultimate 2018 for Windows need to be
 
 # Installing
-double-click on the fxCinematic.reg and fxCinematicPortrait.reg file and follow accept the dialogs.
+1. download a release of presets to your computer
+https://github.com/firulais/presets/archive/v0.1.zip
+
+2. open or unzip the downloaded file
+
+3. open the folder Preset / Global
+
+4. double-click on one of the preset *.reg files 
+(e.g. fxCinematic.reg and fxCinematicPortrait.reg)
+and follow accept the dialogs.
 
 # Usage
 
-# Documentation
 
 # Release Notes
 This is the initial release with just two Presets.
 
 # Credits
-* Muaz Khan - https://github.com/muaz-khan
+* Quentin Decaillet
+https://fstoppers.com/education/how-color-grade-your-images-using-acdsee-ultimate-10-182876
 
 # License
 All Presets are released under [MIT licence].
@@ -41,6 +50,7 @@ This creates a .reg file which you can copy over e.g. to your new machine (using
 
 2. After you get past the requisite warning messages, RegEdit will copy your Develop settings into your new Registry.
 
+@see
 http://forum.acdsee.com/forum/acdsee-pro/809-how-to-copy-presets-from-desktop-to-laptop
 
 # Known Issues
