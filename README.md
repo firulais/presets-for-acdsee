@@ -19,7 +19,10 @@ https://github.com/firulais/presets/archive/v0.1.zip
 and follow accept the dialogs.
 
 # Usage
-
+Open ACDSee Ultimate 2018 for Windows.
+Select a photo and "Develop" it.
+In "Develop" mode you now can see in the global presets the new added presets.
+Select your preset and click on it.
 
 # Release Notes
 This is the initial release with just two Presets.
@@ -27,6 +30,7 @@ This is the initial release with just two Presets.
 # Credits
 * Quentin Decaillet
 https://fstoppers.com/education/how-color-grade-your-images-using-acdsee-ultimate-10-182876
+https://fstoppers.com/education/how-retouch-portrait-start-finish-acdsee-ultimate-10-180277
 
 # License
 All Presets are released under [MIT licence].
