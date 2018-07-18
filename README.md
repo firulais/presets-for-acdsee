@@ -1,7 +1,7 @@
-# Firulais Preset Collection for ACDSee Ultimate 2018 for Windows
+# Firulais Preset Collection for ACDSee(r) Ultimate 2018 for Windows
 
 # What is it?
-ACDSee Presets to be used with Ultimate 2018 for Windows
+Presets to be used with ACDSee(r) Ultimate 2018 for Windows
 
 # Who may use this?
 * Users who want to apply some effect to their photos (fx presets)
@@ -28,7 +28,7 @@ Please share your experiences in the [Wiki](https://github.com/firulais/presets/
 [Download](https://github.com/firulais/presets/archive/v0.3.zip) the latest version.
 
 # System Requirements
-ACDSee Ultimate 2018 for Windows
+ACDSee(r) Ultimate 2018 for Windows
 
 # Documentation
 
@@ -59,7 +59,12 @@ This is the initial release with just two Presets.
 All Presets are released under [MIT licence].
 Details on Licensing can be found in the LICENSE.txt file.
 
+This presets have no relation with ACD Systems International Inc.
+
 # Credits
+* LV_Bill
+http://forum.acdsee.com/forum/main-category/acdsee-ultimate/42543-develop-presets
+
 * picasalosch
 http://picasalosch.blogspot.co.at/2012/11/presets-fur-acdsee.html
 
