@@ -56,7 +56,7 @@ his way you can mix the tx.. presets with the other presets.
 This is the initial release with just two Presets.
 
 # License
-All Presets are released under [MIT licence].
+All Presets are released under CC-BY-NC-SA: Attribution-NonCommercial-ShareAlike 4.0 International.
 Details on Licensing can be found in the LICENSE.txt file.
 
 This presets have no relation with ACD Systems International Inc.
