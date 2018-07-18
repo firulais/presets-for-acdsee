@@ -1,15 +1,16 @@
-# Presets for ACDSee Ultimate 2018 for Windows
+# Firulais Preset Collection for ACDSee Ultimate 2018 for Windows
 
 # What is it?
-Presets for ACDSee Ultimate 2018 for Windows
+ACDSee Presets to be used with Ultimate 2018 for Windows
 
 # System Requirements
-ACDSee Ultimate 2018 for Windows need to be
+ACDSee Ultimate 2018 for Windows
 
 # Installing
 double-click on the fxCinematic.reg and fxCinematicPortrait.reg file and follow accept the dialogs.
 
 # Usage
+Please share your experiences in [Wiki](https://github.com/firulais/presets/wiki/Experiences)
 
 # Documentation
 
@@ -42,9 +43,9 @@ This creates a .reg file which you can copy over e.g. to your new machine (using
 
 http://forum.acdsee.com/forum/acdsee-pro/809-how-to-copy-presets-from-desktop-to-laptop
 
-# Known Issues
-This Presets may not work with the following applications:
-ACDSee Ultimate 2018 for IOS
-ACDSee Professional 2018
-ACDSee Standard 2018
-all other applications
+# Limitations & Known Issues
+* This Presets may not work with the following applications:
+* ACDSee Ultimate 2018 for IOS
+* ACDSee Professional 2018
+* ACDSee Standard 2018
+* and of course all other applications
