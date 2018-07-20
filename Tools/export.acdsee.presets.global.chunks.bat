@@ -20,7 +20,9 @@ for /f "tokens=*" %%R in ('REG QUERY "HKCU\Software\ACD Systems\EditLib\Version 
 		set file=%%~nA.reg
 	)
 	@echo !file!
-	reg export "%%R" "!file!" /y
+
+	mkdir Global 2> NUL
+	reg export "%%R" "Global\!file!" /y
 )
 
 pause
