@@ -13,7 +13,6 @@ set month=%date:~3,2%
 if "%month:~0,1%" == " " set month=0%month:~1,1%
 set day=%date:~0,2%
 if "%day:~0,1%" == " " set day=0%day:~1,1%
-
 set mydate=%year%%month%%day%_%hour%%min%%secs%
 
 for /f "tokens=*" %%R in ('REG QUERY "HKCU\Software\ACD Systems\EditLib\Version 1.0\Develop\Presets\Global"') do (

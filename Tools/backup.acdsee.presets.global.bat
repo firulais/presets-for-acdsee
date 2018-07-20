@@ -10,9 +10,10 @@ set month=%date:~3,2%
 if "%month:~0,1%" == " " set month=0%month:~1,1%
 set day=%date:~0,2%
 if "%day:~0,1%" == " " set day=0%day:~1,1%
-
 set mydate=%year%%month%%day%_%hour%%min%%secs%
 
+FOR /F "usebackq" %%i IN (`hostname`) DO SET computer=%%i
+
 REM cd %Userprofile%\desktop
-reg export "HKCU\Software\ACD Systems\EditLib\Version 1.0\Develop\Presets\Global" presets_global_%mydate%.reg
+reg export "HKCU\Software\ACD Systems\EditLib\Version 1.0\Develop\Presets\Global" presets_global_%computer%_%mydate%.reg
 pause
