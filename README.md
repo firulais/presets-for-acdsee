@@ -52,6 +52,11 @@ Separation of effect presets and technical presets:
 Only the tx.. presets contain changes to the "Geometry" (Lens Correction, Rotate & Straighten, Perspective, Crop, Vignette Correction). The tx.. presets also contain “Detail” (Sharpening, Noise Reduction, Skin Tune) settings. T
 his way you can mix the tx.. presets with the other presets.
 
+* sxPhotoChrome
+Photochrom is a process for producing colorized images from black-and-white photographic negatives.
+The finished print was produced using at least six, but more commonly ten to fifteen, tint stones.
+[https://en.wikipedia.org/wiki/Photochrom]
+
 *** Details on RAW development
 
 * Nik*n's Active-D Lighting (ADL)
