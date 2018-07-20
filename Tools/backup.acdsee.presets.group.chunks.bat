@@ -31,7 +31,7 @@ for /f "tokens=*" %%G in ('REG QUERY "HKEY_CURRENT_USER\Software\ACD Systems\Edi
 		
 		mkdir Group 2> NUL
 		mkdir Group\"!group!" 2> NUL
-		@echo Presets for !group!> "Group\!group!\README.md"
+		@echo Presets for !group!> "Group\!group!\README.md" 2> NUL
 		reg export "%%R" "Group\!group!\Group_!group!_!preset!.reg" /y
 	)
 
