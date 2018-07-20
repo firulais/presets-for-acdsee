@@ -42,15 +42,48 @@ mx .. mono and blach&white effect presets
 
 **Presets**
 
+* fxCineastic...
+A cold cineastic preste.
+
 * mxFilm...
 These presets try to replicate the color frequency sensitivities of some analog B&W films.
-
-* fxCineastic...
-Cold color prestes.
 
 Separation of effect presets and technical presets: 
 Only the tx.. presets contain changes to the "Geometry" (Lens Correction, Rotate & Straighten, Perspective, Crop, Vignette Correction). The tx.. presets also contain “Detail” (Sharpening, Noise Reduction, Skin Tune) settings. T
 his way you can mix the tx.. presets with the other presets.
+
+*** Details on RAW development
+
+* Nik*n's Active-D Lighting (ADL)
+* Can*n's Auto Lighting Optimiser
+Nik*n's Active-D Lighting is in-camera image processing feature. 
+
+Active D-Lighting is a two step process to get a better balanced image (slightly brighter shadows, more detail in the highlights).
+
+This results in an adjusted tone curve in the in camera JPEG conversion that 
+- boosts the shadows (making them brighter) and 
+- adjusts the highlights and mid-tones 
+to where they belong (according to Nikon). 
+As it is entirely software based the same effect can be reproduced later on the computer in post processing.
+
+This only effects your jpg or the preview image that is embedded in the RAW.
+If you have activated this feature the preview of your shot on the camera display will be brighter than the RAW itself.
+When opening such an RAW file in ACDSee you may be surpred that it a lot to dark.
+
+In ACDSee RAW development you can correct this using
+- Fill Light or
+- Light EQ or
+- Tone Curves.
+Using Exposure doesn't bring you the effect, because the whole image will get brigher and the whites will be over-exposed.
+
+- Extrastark
+    - Fill Light: 40
+- Verstärkt
+- Normal
+- Moderat
+- Aus
+
+In this case use the txActive-D Lightning presets to correct this.
 
 # Release Notes
 This is the initial release with just two Presets.
