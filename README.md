@@ -71,17 +71,20 @@ If you have activated this feature the preview of your shot on the camera displa
 When opening such an RAW file in ACDSee you may be surpred that it a lot to dark.
 
 In ACDSee RAW development you can correct this using
-- Fill Light or
+- Tone Curves or
 - Light EQ or
-- Tone Curves.
+- Fill Light (no perfect solution, but easy to handle).
 Using Exposure doesn't bring you the effect, because the whole image will get brigher and the whites will be over-exposed.
 
-- Extrastark
-    - Fill Light: 40
-- Verstärkt
-- Normal
-- Moderat
-- Aus
+- H'(Extrahigh) Fill Light: 40
+- H(igh)
+- N(ormal)
+- L(ow)
+- Off
+
+Rather than only adjusting the shape of the tone curve (as most similar systems do), 
+the Nikon system also adjusts exposure by one or two thirds of a stop.
+See the [tone curves](https://www.dpreview.com/reviews/nikond90/23).
 
 In this case use the txActive-D Lightning presets to correct this.
 
